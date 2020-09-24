@@ -1,5 +1,5 @@
 # toolbox
-Small trinkets and tools of code I like to keep. All are free to use and modify.
+Small trinkets and tools of code I like to keep. Should no license be found in the folder in which the code is contained, it is Public Domain, otherwise respect the License file.
 
 ## Directory
 
