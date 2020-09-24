@@ -1,0 +1,17 @@
+{
+  "name": "maddie-test",
+  "version": "1.0.0",
+  "description": "Testable Maddie.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zen Wolf",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "opusscript": "0.0.3",
+    "xmlhttp": "0.0.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

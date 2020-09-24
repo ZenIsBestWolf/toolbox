@@ -1,0 +1,20 @@
+{
+    "help": {
+        "description": "Displays this message.",
+        "usage": "help",
+        "permissionType": "global",
+        "permission": 0
+    },
+    "moderate": {
+        "description": "Filler command for a moderator action.",
+        "usage": "moderate",
+        "permissionType": "server",
+        "permission": 1
+    },
+    "shutdown": {
+        "description": "Shutdown the bot.",
+        "usage": "shutdown",
+        "permissionType": "global",
+        "permission": 1
+    }
+}

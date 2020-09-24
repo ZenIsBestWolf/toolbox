@@ -1,0 +1,412 @@
+{
+	"amphibians": {
+		"displayname": "Amphibians",
+		"description": "For people whose sona is an amphibian.",
+		"type": "species"
+	},
+	"agender": {
+		"displayname": "Agender",
+		"description": "For those who don't identify with any gender.",
+		"type": "gender"
+	},
+	"americas": {
+		"displayname": "Americas",
+		"description": "For those located in the Americas. (North, Central, and South America.)",
+		"type": "location"
+	},
+	"angles": {
+		"displayname": "Angles",
+		"description": "'The quintessential to 'good' or 'nice''. - Lolita",
+		"type": "misc"
+	},
+	"aquatic": {
+		"displayname": "Aquatic",
+		"description": "For people whose sona is aquatic (mostly lives in the water).",
+		"type": "species"
+	},
+	"artist": {
+		"displayname": "Artist",
+		"description": "For people who are artists.",
+		"type": "job"
+	},
+	"asexual": {
+		"displayname": "Asexual",
+		"description": "For those who identify as Asexual/Ace.",
+		"type": "sexuality"
+	},
+	"avians": {
+		"displayname": "Avians",
+		"description": "For people whose sona is an avian or related to avians (Birds).",
+		"type": "species"
+	},
+	"bisexual": {
+		"displayname": "Bisexual",
+		"description": "For those who identify as Bisexual.",
+		"type": "sexuality"
+	},
+	"black": {
+		"displayname": "Black",
+		"description": "Have your name be the color Black.",
+		"type": "color"
+	},
+	"blue": {
+		"displayname": "Blue",
+		"description": "Have your name be the color Blue.",
+		"type": "color"
+	},
+	"bovines": {
+		"displayname": "Bovines",
+		"description": "For people whose sona is a bovine (Buffalo, Bison, etc.).",
+		"type": "species"
+	},
+	"brown": {
+		"displayname": "Brown",
+		"description": "Have your name be the color Brown.",
+		"type": "color"
+	},
+	"canines": {
+		"displayname": "Canines",
+		"description": "For people whose sona is a canine (Dogs, doglike).",
+		"type": "species"
+	},
+	"cervines": {
+		"displayname": "Cervines",
+		"description": "For people whose sona is a cervine (Deer, deerlike).",
+		"type": "species"
+	},
+	"cod": {
+		"displayname": "CoD",
+		"description": "For people who play Call of Duty.",
+		"type": "game"
+	},
+	"cyan": {
+		"displayname": "Cyan",
+		"description": "Have your name be the color Cyan.",
+		"type": "color"
+	},
+	"dark blue": {
+		"displayname": "Dark Blue",
+		"description": "Have your name be the color Dark Blue.",
+		"type": "color"
+	},
+	"demons": {
+		"displayname": "Demons",
+		"description": "'The quintessential of 'bad' or 'naughty''. - Lolita",
+		"type": "misc"
+	},
+	"developer": {
+		"displayname": "Developer",
+		"description": "For people who have an interest or field in development.",
+		"type": "job"
+	},
+	"dragons": {
+		"displayname": "Dragons",
+		"description": "For people whose sona is a dragon (Dragon, dragon-like).",
+		"type": "species"
+	},
+	"equines": {
+		"displayname": "Equines",
+		"description": "For people whose sona is an equine (Horses, horselike).",
+		"type": "species"
+	},
+	"engaged": {
+		"displayname": "Engaged",
+		"description": "For those who are engaged.",
+		"type": "relationship"
+	},
+	"eurasia": {
+		"displayname": "Eurasia",
+		"description": "For those who are located in Eurasia. (All of Europe and Asia.)",
+		"type": "location"
+	},
+	"felines": {
+		"displayname": "Felines",
+		"description": "For people whose sona is a feline (Cat, lion, felinelike).",
+		"type": "species"
+	},
+	"female": {
+		"displayname": "Female",
+		"description": "For those who identify as Female.",
+		"type": "gender"
+	},
+	"femboy": {
+		"displayname": "Femboy",
+		"description": "Males who are more effimate.",
+		"type": "misc"
+	},
+	"fortnite": {
+		"displayname": "Fortnite",
+		"description": "For people who play Fortnite.",
+		"type": "game"
+	},
+	"forza": {
+		"displayname": "Forza",
+		"description": "For people who play Forza.",
+		"type": "game"
+	},
+	"furries": {
+		"displayname": "Furries",
+		"description": "For people who identify as a furry, are into the furry community, and vice versa.",
+		"type": "furry"
+	},
+	"non-furries": {
+		"displayname": "Non-Furries",
+		"description": "For people who are not part of the community, do not have a species, and support the community, vice versa.",
+		"type": "furry"
+	},
+	"gay": {
+		"displayname": "Gay",
+		"description": "For those who identify as Gay.",
+		"type": "sexuality"
+	},
+	"gray": {
+		"displayname": "Gray",
+		"description": "Have your name be the color Gray/Grey.",
+		"type": "color"
+	},
+	"green": {
+		"displayname": "Green",
+		"description": "Have your name be the color Green.",
+		"type": "color"
+	},
+	"gta": {
+		"displayname": "GTA",
+		"description": "For people who play GTA.",
+		"type": "game"
+	},
+	"hybrids": {
+		"displayname": "Hybrids",
+		"description": "For people who have a sona of a combination of two or more species.",
+		"type": "misc"
+	},
+	"lagomorphs": {
+		"displayname": "Lagomorphs",
+		"description": "For people whose sona is a lagomorph (Rabbit, rabbitlike).",
+		"type": "species"
+	},
+	"lesbian": {
+		"displayname": "Lesbian",
+		"description": "For those who identify as Lesbian.",
+		"type": "sexuality"
+	},
+	"lol": {
+		"displayname": "LoL",
+		"description": "For people who play League of Legends.",
+		"type": "game"
+	},
+	"lynx": {
+		"displayname": "Lynx",
+		"description": "For people whose sona is a lynx (Lynx, wild-cat like, etc.).",
+		"type": "species"
+	},
+	"magenta": {
+		"displayname": "Magenta",
+		"description": "Have your name be the color Magenta.",
+		"type": "color"
+	},
+	"male": {
+		"displayname": "Male",
+		"description": "For those who identify as Male.",
+		"type": "gender"
+	},
+	"married": {
+		"displayname": "Married",
+		"description": "For those who are married.",
+		"type": "relationship"
+	},
+	"marsupials": {
+		"displayname": "Marsupials",
+		"description": "For people whose sona has a common characteristic of having a pouch carrier (Opossums, wombats, etc.).",
+		"type": "species"
+	},
+	"minecraft": {
+		"displayname": "Minecraft",
+		"description": "For people who play Minecraft.",
+		"type": "game"
+	},
+	"mobile gamer": {
+		"displayname": "Mobile Gamer",
+		"description": "For people who game on a phone.",
+		"type": "misc"
+	},
+	"multiple sonas": {
+		"displayname": "Multiple Sonas",
+		"description": "For people who have multiple fursonas of different or the same species.",
+		"type": "species"
+	},
+	"mustelids": {
+		"displayname": "Mustelids",
+		"description": "For people whose sona is a mustelid (Weasels, badgers, otters, etc.).",
+		"type": "species"
+	},
+	"mythical": {
+		"displayname": "Mythical",
+		"description": "For people whose sona is based off myths or folktales (Legendary, fairy-tale, etc.).",
+		"type": "species"
+	},
+	"not interested": {
+		"displayname": "Not interested",
+		"description": "For those who are just not interested in dating right now.",
+		"type": "relationship"
+	},
+	"nintendo switch": {
+		"displayname": "Nintendo Switch",
+		"description": "For those who game on a Switch.",
+		"type": "console"
+	},
+	"nsfw": {
+		"displayname": "NSFW",
+		"description": "Access to the 18+ channels.",
+		"type": "misc"
+	},
+	"oceania": {
+		"displayname": "Oceania",
+		"description": "For those who are located in the Oceania region. (Australia, New Zealend, Melanesia, Micronesia, or Polynesia.)",
+		"type": "location"
+	},
+	"orange": {
+		"displayname": "Orange",
+		"description": "Have your name be the color Orange.",
+		"type": "color"
+	},
+	"original species": {
+		"displayname": "Original Species",
+		"description": "For people who have a self-made or sona species that might not be as popular, such as **angel dragons**, **manokits**, **sergals**, **protogens**, and vice versa.",
+		"type": "species"
+	},
+	"osu": {
+		"displayname": "osu",
+		"description": "For people who play osu!",
+		"type": "game"
+	},
+	"other console": {
+		"displayname": "Other Console",
+		"description": "For those who game on other consoles than the ones we have roles for.",
+		"type": "console"
+	},
+	"overwatch": {
+		"displayname": "Overwatch",
+		"description": "For people who play Overwatch.",
+		"type": "game"
+	},
+	"payday": {
+		"displayname": "PAYDAY",
+		"description": "For people who play PAYDAY: The Heist or PAYDAY 2.",
+		"type": "game"
+	},
+	"pc gamer": {
+		"displayname": "PC Gamer",
+		"description": "For people who game on a PC.",
+		"type": "misc"
+	},
+	"peach": {
+		"displayname": "Peach",
+		"description": "Have your name be the color Peach.",
+		"type": "color"
+	},
+	"pink": {
+		"displayname": "Pink",
+		"description": "Have your name be the color Pink.",
+		"type": "color"
+	},
+	"playstation": {
+		"displayname": "PlayStation",
+		"description": "For people who game on a PlayStation.",
+		"type": "console"
+	},
+	"pokefurs": {
+		"displayname": "Pokefurs",
+		"description": "For people whose interest or sona is Pokémon related.",
+		"type": "species"
+	},
+	"procyonids": {
+		"displayname": "Procyonids",
+		"description": "For people whose sona is a procynid (Racoons, racoonlike).",
+		"type": "species"
+	},
+	"purple": {
+		"displayname": "Purple",
+		"description": "Have your name be the color Purple.",
+		"type": "color"
+	},
+	"red": {
+		"displayname": "Red",
+		"description": "Have your name be the color Red.",
+		"type": "color"
+	},
+	"reptiles": {
+		"displayname": "Reptiles",
+		"description": "For people whose sona is of a reptile relation (Snakes, lizards, crocodiles, etc.).",
+		"type": "species"
+	},
+	"roblox": {
+		"displayname": "Roblox",
+		"description": "For people who play Roblox.",
+		"type": "game"
+	},
+	"rocket league": {
+		"displayname": "Rocket League",
+		"description": "For people who play Rocket League.",
+		"type": "game"
+	},
+	"rodents": {
+		"displayname": "Rodents",
+		"description": "For people whose sona is a rodent (Rat, mouse, hamster, etc.).",
+		"type": "species"
+	},
+	"qotd": {
+		"displayname": "QOTD",
+		"description": "For those who want to recieve QOTD pings.",
+		"type": "misc"
+	},
+	"sergals": {
+		"displayname": "Sergals",
+		"description": "For people whose sona is an original species known as Sergal.",
+		"type": "species"
+	},
+	"single": {
+		"displayname": "Single",
+		"description": "For those who are not in a relationship.",
+		"type": "relationship"
+	},
+	"straight": {
+		"displayname": "Straight",
+		"description": "For those who identify as Straight.",
+		"type": "sexuality"
+	},
+	"taken": {
+		"displayname": "Taken",
+		"description": "When you're in a relationship.",
+		"type": "relationship"
+	},
+	"transgender": {
+		"displayname": "Transgender",
+		"description": "For those who identify as Transgender.",
+		"type": "gender"
+	},
+	"ursines": {
+		"displayname": "Ursines",
+		"description": "For people whose sona is of a ursine species (Bears, pandas, etc.).",
+		"type": "species"
+	},
+	"vulpines": {
+		"displayname": "Vulpines",
+		"description": "For people whose sona is part of the fox family (Red fox, gray fox, etc.).",
+		"type": "species"
+	},
+	"wolves": {
+		"displayname": "Wolves",
+		"description": "For people whose sona is a wolf, part of the canine species.",
+		"type": "species"
+	},
+	"xbox": {
+		"displayname": "Xbox",
+		"description": "For people who game/own an Xbox.",
+		"type": "console"
+	},
+	"yellow": {
+		"displayname": "Yellow",
+		"description": "Have your name be the color Yellow.",
+		"type": "color"
+	}
+}

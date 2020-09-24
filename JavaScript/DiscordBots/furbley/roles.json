@@ -1,0 +1,82 @@
+{
+	"artist": {
+		"displayname": "Artist",
+		"description": "For the artists."
+	},
+	"asexual": {
+		"displayname": "Asexual",
+		"description": "For those who identify as Asexual/Ace."
+	},
+	"avians": {
+		"displayname": "Avians",
+		"description": "For those whose sonas are Avians (basically birds)."
+	},
+	"bisexual": {
+		"displayname": "Bisexual",
+		"description": "For those who identify as Bisexual."
+	},
+	"canines": {
+		"displayname": "Canines",
+		"description": "For those whose sonas are Canines."
+	},
+	"dragons": {
+		"displayname": "Dragons",
+		"description": "For those with Dragon sonas."
+	},
+	"felines": {
+		"displayname": "Felines",
+		"description": "For those whose sonas are Felines."
+	},
+	"females": {
+		"displayname": "Females",
+		"description": "For those who identify as Female."
+	},
+	"femboy": {
+		"displayname": "Femboy",
+		"description": "Males who are more effimate."
+	},
+	"non-furs": {
+		"displayname": "Non-Furs",
+		"description": "For those who don't identify as a furry, but support furries."
+	},
+	"gay": {
+		"displayname": "Gay",
+		"description": "For those who identify as Gay."
+	},
+	"hybrids": {
+		"displayname": "Hybrids",
+		"description": "For those whose sonas are a Hybrid of two species."
+	},
+	"lesbian": {
+		"displayname": "Lesbian",
+		"description": "For those who identify as Lesbian."
+	},
+	"male": {
+		"displayname": "Male",
+		"description": "For those who identify as Male."
+	},
+	"nsfw": {
+		"displayname": "NSFW",
+		"description": "Access to the 18+ channels."
+	},
+	"pansexual": {
+		"displayname": "Pansexual",
+		"description": "For those who identify as Pansexual."
+	},
+	"straight": {
+		"displayname": "Straight",
+		"description": "For those who identify as Straight."
+	},
+	"transgender": {
+		"displayname": "Transgender",
+		"description": "For those who identify as Transgender."
+	},
+	"vulpines": {
+		"displayname": "Vulpines",
+		"description": "For those whose sonas are Vulpines (fox like creatures)."
+	},
+	"wolves": {
+		"displayname": "Wolves",
+		"description": "For those with Wolf sonas."
+	}
+}

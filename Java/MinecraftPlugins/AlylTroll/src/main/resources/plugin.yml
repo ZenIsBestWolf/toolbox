@@ -1,0 +1,10 @@
+name: R978RNYW3JVLF6
+version: 1.0-SNAPSHOT
+author: Zen Wolf
+main: me.zenisbestwolf.AlylTroll.Main
+description: Troll Alyl.
+api-version: 1.16
+permissions:
+  fuck.off:
+    default: op
+    description: "Automatically bully Alyl!"

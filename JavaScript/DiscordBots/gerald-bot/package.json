@@ -1,0 +1,14 @@
+{
+  "name": "gerakd-bot",
+  "version": "1.0.0",
+  "description": "wack ass bot named gerald",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zen Wolf",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
