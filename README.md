@@ -31,3 +31,5 @@ Should no license be found in the folder in which the code is contained, it is P
 			- The testing grounds for my first ever Discord bot, [Maddie](https://github.com/ZenIsBestWolf/maddie-bot) which is in archive here on GitHub still. This is how I learned JS, NodeJS, DiscordJS, and got my first real foot into programming. Thank you so much to An Idiot's Guide who taught me this on YouTube.
 		- skid-bot & skid-bot-test
 			- I grouped these since they're similar. This was a bot for a server I was trying to make and is similar to [Furrtron](https://github.com/ZenIsBestWolf/furrtron). The "-test" version is obviously the testing grounds.
+		- crimp-bot
+			- A bot I made for a friend.
