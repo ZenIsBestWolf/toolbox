@@ -33,3 +33,5 @@ Should no license be found in the folder in which the code is contained, it is P
 			- I grouped these since they're similar. This was a bot for a server I was trying to make and is similar to [Furrtron](https://github.com/ZenIsBestWolf/furrtron). The "-test" version is obviously the testing grounds.
 		- crimp-bot
 			- A bot I made for a friend.
+	- OptiFine Tool
+		- This tool generated some embeds for internal use at OptiFine.
